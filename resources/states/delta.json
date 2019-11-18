@@ -1,0 +1,144 @@
+{
+    "name": {
+        "common": "Delta",
+        "official": "Delta State",
+        "short_code": "DE"
+    },
+    "capital": "Calabar",
+    "political_zone": "South South",
+    "date_created": "27/08/1991",
+    "population": "5663400",
+    "website": "www.deltastate.gov.ng",
+    "demonym": "Deltan",
+    "nick_name": " The Big Heart of the Nation",
+    "languages": {
+        "english": "English"
+    },
+    "lga": {
+        "1": {
+            "name": "Ethiope East",
+            "official": "Ethiope East Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Ethiope West",
+            "official": "Ethiope West Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Okpe",
+            "official": "Okpe Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Sapele",
+            "official": "Sapele Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Udu",
+            "official": "Udu Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ughelli North",
+            "official": "Ughelli North Local Government"
+        },
+        "7": {
+            "name": "Ughelli South",
+            "official": "Ughelli South Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Uvwie",
+            "official": "Uvwie Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Aniocha North",
+            "official": "Aniocha North Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Aniocha South",
+            "official": "Aniocha South Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Ika North East",
+            "official": "Ika North East Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ika South",
+            "official": "Ika South Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Ndokwa East",
+            "official": "Ndokwa East Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Ndokwa West",
+            "official": "Ndokwa West Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Oshimili North",
+            "official": "Oshimili North Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Oshimili South",
+            "official": "Oshimili South Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Ukwuani",
+            "official": "Ukwuani Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Bomadi",
+            "official": "Bomadi Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Burutu",
+            "official": "Burutu Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Isoko North",
+            "official": "Isoko North Local Government",
+            "areas": []
+        },
+        "21": {
+            "name": "Isoko South",
+            "official": "Isoko South Local Government",
+            "areas": []
+        },
+        "22": {
+            "name": "Patani",
+            "official": "Patani Local Government",
+            "areas": []
+        },
+        "23": {
+            "name": "Warri North",
+            "official": "Warri North Local Government",
+            "areas": []
+        },
+        "24": {
+            "name": "Warri South",
+            "official": "Warri South Local Government",
+            "areas": []
+        },
+        "25": {
+            "name": "Warri South West",
+            "official": "Warri South West Local Government",
+            "areas": []
+        }
+    }
+}
+

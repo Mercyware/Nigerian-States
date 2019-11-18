@@ -1,0 +1,123 @@
+{
+    "name": {
+        "common": "Lagos",
+        "official": "Lagos State",
+        "short_code": "LG"
+    },
+    "capital": "Ikeja",
+    "political_zone": "South West",
+    "date_created": "27/05/1967",
+    "population": "9113605",
+    "website": "http://www.lagosstate.gov.ng/",
+    "demonym": "Lagosians",
+    "nick_name": "Center of Excellence",
+    "languages": {
+        "english": "English",
+        "yoruba": "Yoruba"
+    },
+    "lga": {
+        "1": {
+            "name": "Agege",
+            "official": "Agege Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Alimosho",
+            "official": "Alimosho Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Ifako-Ijaye",
+            "official": "Ifako-Ijaye Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Ikeja",
+            "official": "Ikeja Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Kosofe",
+            "official": "Kosofe Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Mushin",
+            "official": "Mushin Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Oshodi-Isolo",
+            "official": "Oshodi-Isolo Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Shomolu",
+            "official": "Shomolu Local Government",
+            "areas": []
+        },
+       
+        "9": {
+            "name": "Apapa",
+            "official": "Apapa Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Eti-Osa",
+            "official": "Eti-Osa Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Lagos Island",
+            "official": "Lagos Island Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Lagos Mainland",
+            "official": "Lagos Mainland Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Surulere",
+            "official": "Surulere Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Ajeromi - Ifelodun",
+            "official": "Ajeromi - Ifelodun Local Government",
+            "areas": []
+        },"15": {
+            "name": "Amuwo-Odofin",
+            "official": "Amuwo-Odofin Local Government",
+            "areas": []
+        },"16": {
+            "name": "Ojo",
+            "official": "Ojo Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Badagry",
+            "official": "Badagry Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Ikorodu",
+            "official": "Ikorodu Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Ibeju-Lekki",
+            "official": "Ibeju-Lekki Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Epe",
+            "official": "Epe Local Government",
+            "areas": []
+        }
+
+        
+       
+}
+
+}

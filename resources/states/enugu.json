@@ -1,0 +1,105 @@
+{
+    "name": {
+        "common": "Enugu",
+        "official": "Enugu State",
+        "short_code": "EG"
+    },
+    "capital": "Enugu",
+    "political_zone": "South East",
+    "date_created": "27/08/1991",
+    "population": "3267837",
+    "website": "enugustate.gov.ng",
+    "demonym": "",
+    "nick_name": " Coal City State",
+    "languages": {
+        "english": "English",
+        "igbo": "Igbo"
+    },
+    "lga": {
+        "1": {
+            "name": "Aninri",
+            "official": "Aninri Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Awgu",
+            "official": "Awgu Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Enugu East",
+            "official": "Enugu East Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Enugu North",
+            "official": "Enugu North Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Enugu South",
+            "official": "Enugu South Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ezeagu",
+            "official": "Ezeagu Local Government"
+        },
+        "7": {
+            "name": "Igbo Etiti",
+            "official": "Igbo Etiti Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Igbo Eze North",
+            "official": "Igbo Eze North Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Igbo Eze South",
+            "official": "Igbo Eze South Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Isi Uzo",
+            "official": "Isi Uzo Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Nkanu East",
+            "official": "Nkanu East Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Nkanu West",
+            "official": "Nkanu West Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Nsukka",
+            "official": "Nsukka Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Oji River",
+            "official": "Oji River Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Udenu",
+            "official": "Udenu Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Udi",
+            "official": "Udi Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Uzo-Uwani",
+            "official": "Uzo-Uwani Local Government",
+            "areas": []
+        }
+    }
+}
+

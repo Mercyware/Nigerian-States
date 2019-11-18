@@ -1,0 +1,98 @@
+{
+    "name": {
+        "common": "Zamfara",
+        "official": "Zamfara State",
+        "short_code": "ZA"
+    },
+    "capital": "Gusau",
+    "political_zone": "North West",
+    "date_created": "01/10/1996",
+    "population": "3278873",
+    "website": "",
+    "demonym": "",
+    "nick_name": "Farming is Our Pride",
+    "languages": {
+        "english": "English",
+        "hausa":"Hausa"
+    
+
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Anka",
+            "official": "Anka  Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Bakura",
+            "official": "Bakura  Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Birnin Magaji/Kiyaw",
+            "official": "Birnin Magaji/Kiyaw Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Bukkuyum",
+            "official": "Bukkuyum Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Bungudu",
+            "official": "Bungudu Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Chafe (Tsafe)",
+            "official": "Chafe (Tsafe)  Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Gummi",
+            "official": "Gummi Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Gusau",
+            "official": "Gusau  Local Government",
+            "areas": []
+        },
+      
+       
+        "9": {
+            "name": "Kaura Namoda",
+            "official": "Kaura Namoda Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Maradun",
+            "official": "Maradun Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Maru",
+            "official": "Maru Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Shinkafi",
+            "official": "Shinkafi Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Talata Mafara",
+            "official": "Talata Mafara Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Zurmi",
+            "official": "Zurmi South Local Government",
+            "areas": []
+        }
+      
+
+}
+
+}

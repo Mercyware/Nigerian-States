@@ -1,0 +1,113 @@
+{
+    "name": {
+        "common": "Plateau",
+        "official": "Plateau State",
+        "short_code": "PL"
+    },
+    "capital": "Jos",
+    "political_zone": "South West",
+    "date_created": "03/02/1976",
+    "population": "3206531",
+    "website": "http://www.plateaustate.gov.ng/",
+    "demonym": "",
+    "nick_name": "Home of Peace and Tourism",
+    "languages": {
+        "english": "English"
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Barkin Ladi",
+            "official": "Barkin Ladi Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Bassa ",
+            "official": "Bassa  Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Bokkos",
+            "official": "Bokkos Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Jos East",
+            "official": "Jos North Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Jos North",
+            "official": "Jos North Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Jos South",
+            "official": "Jos South  Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Kanam",
+            "official": "Kanam Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Kanke",
+            "official": "Ibadan South-West  Local Government",
+            "areas": []
+        },
+      
+       
+        "9": {
+            "name": "Langtang North",
+            "official": "Langtang North Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Langtang South",
+            "official": "Langtang South Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Mangu",
+            "official": "Mangu Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Mikang",
+            "official": "Mikang Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Pankshin",
+            "official": "Pankshin Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Qua'an Pan",
+            "official": "Qua'an Pan South Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Riyom",
+            "official": "Riyom Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Shendam",
+            "official": "Shendam Local Government",
+            "areas": []
+        }
+        ,
+        "17": {
+            "name": "Wase",
+            "official": "Wase Local Government",
+            "areas": []
+        }
+        
+      
+
+}
+
+}

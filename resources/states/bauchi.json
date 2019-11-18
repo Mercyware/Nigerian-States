@@ -1,0 +1,114 @@
+{
+    "name": {
+        "common": "Bauchi",
+        "official": "Bauchi State",
+        "short_code": "BA"
+    },
+    "capital": "Bauchi",
+    "political_zone": "North East",
+    "date_created": "03/02/1976",
+    "population": "4653066",
+    "website": "www.bauchistate.gov.ng",
+    "demonym": "",
+    "nick_name": " Pearl of Tourism",
+    "languages": {
+        "english": "English"
+    },
+    "lga": {
+        "1": {
+            "name": "Bauchi",
+            "official": "Bauchi Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Tafawa Balewa",
+            "official": "Tafawa Balewa Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Dass",
+            "official": "Dass Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Toro",
+            "official": "Toro Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Bogoro",
+            "official": "Bogoro Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Warji",
+            "official": "Warji  Local Government"
+        },
+        "7": {
+            "name": "Ganjuwa",
+            "official": "Ganjuwa Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Kirfi",
+            "official": "Kirfi Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Alkaleri",
+            "official": "Alkaleri Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Darazo",
+            "official": "DarazoLocal Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Misau",
+            "official": "Misau Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Giade",
+            "official": "Giade Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Shira",
+            "official": "Shira Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Jama'are",
+            "official": "Jama'are Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Katagum",
+            "official": "Katagum Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Itas/Gadau",
+            "official": "Itas/Gadau Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Zaki",
+            "official": "Zaki Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Gamawa",
+            "official": "Gamawa Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Damban",
+            "official": "Damban Local Government",
+            "areas": []
+        }
+    }
+}
+

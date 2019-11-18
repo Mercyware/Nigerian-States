@@ -1,0 +1,105 @@
+{
+    "name": {
+        "common": "Akwa Ibom",
+        "official": "Akwa Ibom",
+        "short_code": "AK"
+    },
+    "capital": "Uyo",
+    "political_zone": "South South",
+    "date_created": "23/11/1987",
+    "population": "4112230",
+    "website": "www.abiastate.gov.ng",
+    "demonym": "Abians",
+    "nick_name": "God's Own State",
+    "languages": {
+        "english": "English",
+        "igbo": "Igbo"
+    },
+    "lga": {
+        "1": {
+            "name": "Aba North",
+            "official": "Aba North Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Aba South",
+            "official": "Aba South Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Arochukwu",
+            "official": "Arochukwu Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Bende",
+            "official": "Bende Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ikwuano",
+            "official": "Ikwuano Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Isiala Ngwa North",
+            "official": "Isiala Ngwa North Local Government"
+        },
+        "7": {
+            "name": "Isiala Ngwa South",
+            "official": "Isiala Ngwa South Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Isuikwuato",
+            "official": "Isuikwuato Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Obi Ngwa",
+            "official": "Obi Ngwa Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Ohafia",
+            "official": "Ohafia Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Osisioma Ngwa",
+            "official": "Osisioma Ngwa Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ugwunagbo",
+            "official": "Ugwunagbo Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Ukwa East",
+            "official": "Ukwa East Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Ukwa West",
+            "official": "Ukwa West Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Umuahia North",
+            "official": "Umuahia North Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Umuahia South",
+            "official": "Umuahia South Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Umu Nneochi",
+            "official": "Umu Nneochi Local Government",
+            "areas": []
+        }
+    }
+}
+

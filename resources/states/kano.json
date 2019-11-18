@@ -1,0 +1,250 @@
+{
+    "name": {
+        "common": "Kano",
+        "official": "Kano State",
+        "short_code": "KD"
+    },
+    "capital": "Kano",
+    "political_zone": "North West",
+    "date_created": "27/05/1967",
+    "population": "6113503",
+    "website": "https://kdsg.gov.ng/",
+    "demonym": "",
+    "nick_name": " Centre of Learning",
+    "languages": {
+        "english": "English",
+        "hausa": "Hausa"
+    },
+    "lga": {
+        "1": {
+            "name": "Faggae",
+            "official": " Faggae Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Dala",
+            "official": "Dala Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": " Kano Municipal",
+            "official": "  Kano Municipal Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": " Tarauni",
+            "official": " Tarauni Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Nassarawa",
+            "official": "Nassarawa Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Kumbotso",
+            "official": "Kumbotso  Local Government"
+        },
+        "7": {
+            "name": "Ungogo",
+            "official": "Ungogo Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Kano Metropolitan",
+            "official": " Kano Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Dawakin Tofa",
+            "official": "Dawakin Tofa Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Tofa",
+            "official": "Tofa Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Rimin Gado",
+            "official": "Rimin Gado Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": " Bagwai",
+            "official": "Bagwai Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Gezawa",
+            "official": "Gazawa Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Gabasawa",
+            "official": "Gabasawa Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": " Minjibir",
+            "official": "Minjibir Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Dambatta",
+            "official": "Dambatta Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Mokoda",
+            "official": "Mokoda Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Kunchi",
+            "official": "Kunchi Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Bichi",
+            "official": "Bichi Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Tsanyawa",
+            "official": "Tsanyawa Local Government",
+            "areas": []
+        },
+        "21": {
+            "name": "Shanono",
+            "official": "Shanono Local Government",
+            "areas": []
+        },
+        "22": {
+            "name": "Gwarzo",
+            "official": "Gwarzo Local Government",
+            "areas": []
+        },
+        "23": {
+            "name": "Karaye",
+            "official": "Karaye Local Government",
+            "areas": []
+        },
+        "24": {
+            "name": "Rogo",
+            "official": "Rogo Local Government",
+            "areas": []
+        },
+        "25": {
+            "name": "Kabo",
+            "official": "Kabo Local Government",
+            "areas": []
+        },
+        "26": {
+            "name": "Northern Kano",
+            "official": "Northern Kano Local Government",
+            "areas": []
+        },
+        "27": {
+            "name": "Bunkure",
+            "official": "Bunkure Local Government",
+            "areas": []
+        },
+        "28": {
+            "name": "Kibiya",
+            "official": "Kibiya Local Government",
+            "areas": []
+        },
+        "29": {
+            "name": "Rano",
+            "official": "Rano Local Government",
+            "areas": []
+        },
+        "30": {
+            "name": "Tudun Wada",
+            "official": "Tudun Wada Local Government",
+            "areas": []
+        },
+        "31": {
+            "name": "Doguwa",
+            "official": "Doguwa Local Government",
+            "areas": []
+        },
+        "32": {
+            "name": "Madobi",
+            "official": "Madobi Local Government",
+            "areas": []
+        },
+        "33": {
+            "name": "Kura",
+            "official": "Kura Local Government",
+            "areas": []
+        },
+        "34": {
+            "name": "Garun Mallam",
+            "official": "Garun Mallam Local Government",
+            "areas": []
+        },
+        "35": {
+            "name": "Bebeji",
+            "official": "Bebeji Local Government",
+            "areas": []
+        },
+        "36": {
+            "name": "Kiru",
+            "official": "Kiru Local Government",
+            "areas": []
+        },
+        "37": {
+            "name": "Sumaila",
+            "official": "Sumaila Local Government",
+            "areas": []
+        },
+        "38": {
+            "name": "Garko",
+            "official": "Garko Local Government",
+            "areas": []
+        },
+        "39": {
+            "name": "Takai",
+            "official": "Takai Local Government",
+            "areas": []
+        },
+        "40": {
+            "name": "Albasu",
+            "official": "Albasu Local Government",
+            "areas": []
+        },
+        "41": {
+            "name": "Gaya",
+            "official": "Gaya Local Government",
+            "areas": []
+        },
+        "42": {
+            "name": "Ajingi",
+            "official": "Ajingi Local Government",
+            "areas": []
+        },
+        "43": {
+            "name": "Wudil",
+            "official": "Wudil Local Government",
+            "areas": []
+        },
+        "44": {
+            "name": "Warawa",
+            "official": "Warawa Local Government",
+            "areas": []
+        },
+        "45": {
+            "name": "Dawakin Kudu",
+            "official": "Dawakin Kudu Local Government",
+            "areas": []
+        },
+        "46": {
+            "name": "Southern Kaduna",
+            "official": "Southern Kaduna Local Government",
+            "areas": []
+        }
+    }
+}
+

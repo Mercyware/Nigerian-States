@@ -1,0 +1,136 @@
+{
+    "name": {
+        "common": "Kaduna ",
+        "official": "Kaduna  State",
+        "short_code": "KD"
+    },
+    "capital": "Kaduna",
+    "political_zone": "North West",
+    "date_created": "27/05/1967",
+    "population": "6113503",
+    "website": "https://kdsg.gov.ng/",
+    "demonym": "",
+    "nick_name": " Centre of Learning",
+    "languages": {
+        "english": "English",
+        "hausa": "Hausa"
+    },
+    "lga": {
+        "1": {
+            "name": " Birnin Gwari",
+            "official": " Birnin Gwari Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Chikun",
+            "official": "Chikun Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": " Giwa",
+            "official": " Giwa Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": " Igabi",
+            "official": " Igabi Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ikara",
+            "official": "Ikara Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Jaba",
+            "official": "Jaba South Local Government"
+        },
+        "7": {
+            "name": " Jema'a",
+            "official": " Jema'a Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": " Kachia",
+            "official": " Kachia Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Kaduna North",
+            "official": "Kaduna North Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Kaduna South",
+            "official": "Kaduna South Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Kagarko",
+            "official": "Kagarko Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": " Kajuru",
+            "official": " Kajuru Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": " Kaura",
+            "official": " Kaura Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": " Kauru",
+            "official": " Kauru Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": " Kubau",
+            "official": " Kubau Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Kudan",
+            "official": "Kudan Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Lere",
+            "official": "Lere Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": " Makarfi",
+            "official": " Makarfi Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Sabon Gari",
+            "official": "Sabon Gari Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": " Sanga",
+            "official": " Sanga Local Government",
+            "areas": []
+        },
+        "21": {
+            "name": "Soba",
+            "official": "Soba Local Government",
+            "areas": []
+        },
+        "22": {
+            "name": " Zangon Kataf",
+            "official": " Zangon Kataf Local Government",
+            "areas": []
+        },
+        "23": {
+            "name": " Zaria",
+            "official": " Zaria Local Government",
+            "areas": []
+        },
+        
+    }
+}
+

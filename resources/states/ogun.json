@@ -1,0 +1,128 @@
+{
+    "name": {
+        "common": "Ogun",
+        "official": "Ogun State",
+        "short_code": "OG"
+    },
+    "capital": "Abeokuta",
+    "political_zone": "South West",
+    "date_created": "03/02/1976",
+    "population": "3751140",
+    "website": "",
+    "demonym": "Omo Ogun",
+    "nick_name": "The Gateway State",
+    "languages": {
+        "english": "English",
+        "yoruba": "Yoruba"
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Abeokuta North",
+            "official": "Abeokuta North Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Abeokuta South",
+            "official": "Abeokuta South Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Ado-Odo/Ota",
+            "official": "Ado-Odo/Ota Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Ewekoro",
+            "official": "Ewekoro Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ifo",
+            "official": "Ifo Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ijebu East",
+            "official": "Ijebu East Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Ijebu North",
+            "official": "Ijebu North Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Ijebu North East",
+            "official": "Ijebu North East Local Government",
+            "areas": []
+        },
+       
+        "9": {
+            "name": "Ijebu Ode",
+            "official": "Ijebu Ode Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Ikenne",
+            "official": "Ikenne Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Imeko Afon",
+            "official": "Imeko Afon Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ipokia",
+            "official": "Ipokia Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Obafemi Owode",
+            "official": "Obafemi Owode Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Odogbolu",
+            "official": "Odogbolu Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Odeda",
+            "official": "Odeda Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Ogun Waterside",
+            "official": "Ogun Waterside Local Government",
+            "areas": []
+        }
+        ,
+        "17": {
+            "name": "Remo North",
+            "official": "Remo North Local Government",
+            "areas": []
+        }
+        ,
+        "18": {
+            "name": "Sagamu",
+            "official": "Sagamu Local Government",
+            "areas": []
+        }
+        ,
+        "19": {
+            "name": "Yewa North",
+            "official": "Yewa North Local Government",
+            "areas": []
+        }
+        ,
+        "20": {
+            "name": "Yewa South",
+            "official": "Yewa South Local Government",
+            "areas": []
+        } 
+}
+
+}

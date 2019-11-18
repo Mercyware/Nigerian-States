@@ -1,0 +1,99 @@
+{
+    "name": {
+        "common": "Kwara",
+        "official": "Kwara State",
+        "short_code": "KW"
+    },
+    "capital": "Ilorin",
+    "political_zone": "North Central",
+    "date_created": "27/05/1967",
+    "population": "2365353",
+    "website": "https://kwarastate.gov.ng/",
+    "demonym": "",
+    "nick_name": "State of Harmony",
+    "languages": {
+        "english": "English",
+        "yoruba": "Yoruba"
+    },
+    "lga": {
+        "1": {
+            "name": "Asa",
+            "official": "Asa Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Baruten",
+            "official": "Baruten Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Edu",
+            "official": "Edu Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Ekiti",
+            "official": "Ekiti Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ilorin East",
+            "official": "Ilorin East Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ilorin South",
+            "official": "Ilorin South Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Ilorin West",
+            "official": "Ilorin West Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Irepodun",
+            "official": "Irepodun Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Isin",
+            "official": "Isin Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Kaiama",
+            "official": "Kaiama Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Moro",
+            "official": "Moro Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Offa",
+            "official": "Offa Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Oke Ero",
+            "official": "Oke Ero Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Oyun",
+            "official": "Oyun Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Pategi",
+            "official": "Pategi Local Government",
+            "areas": []
+        }
+
+        
+       
+}
+
+}

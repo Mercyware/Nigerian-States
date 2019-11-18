@@ -1,0 +1,18 @@
+{
+    "name": "mercyware/nigerianstates",
+    "description": "The laravel package helps to get list of Nigerian states and information about each states",
+   "type": "library",
+   "license": "MIT",
+    "authors": [
+        {
+            "name": "Olaitan Adeboye",
+            "email": "mercyware@gmail.com"
+        }
+    ],
+    "require": {    },
+    "autoload": {
+        "psr-4": {
+            "Mercyware\\States\\":"src/"
+        }
+    }
+}

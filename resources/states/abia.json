@@ -1,0 +1,179 @@
+{
+    "name": {
+        "common": "Abia",
+        "official": "Abia State",
+        "short_code": "AB"
+    },
+    "capital": "Umuahia",
+    "political_zone": "South East",
+    "date_created": "27/08/1991",
+    "population": "5450758",
+    "website": "akwaibomstate.gov.ng",
+    "demonym": "",
+    "nick_name": "Land of Promise",
+    "languages": {
+        "english": "English",
+        "ibibio": "Ibibio",
+        "annang": "Annang",
+        "eket": "Eket",
+        "oron": "Oron",
+        "igbo": "Igbo"
+    },
+    "lga": {
+        "1": {
+            "name": "Abak",
+            "official": "Abak Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Eastern Obolo",
+            "official": "Eastern Obolo Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Eket",
+            "official": "Eket Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Esit-Eket",
+            "official": "Esit-Eket Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Essien Udim",
+            "official": "Essien Udim Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Etim-Ekpo",
+            "official": "Etim-Ekpo Local Government"
+        },
+        "7": {
+            "name": "Etinan",
+            "official": "Etinan Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Ibeno",
+            "official": "Ibeno Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Ibesikpo-Asutan",
+            "official": "Ibesikpo-Asutan Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Ibiono-Ibom",
+            "official": "Ibiono-Ibom Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Ika",
+            "official": "Ika Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ikono",
+            "official": "Ikono Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Ikot Abasi",
+            "official": "Ikot Abasi Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Ikot Abasi",
+            "official": "Ikot Abasi Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Ini",
+            "official": "Ini Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Itu",
+            "official": "Itu Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Mbo",
+            "official": "Mbo Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Mkpat-Enin",
+            "official": "Mkpat-Enin Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Nsit-Atai",
+            "official": "Nsit-Atai Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Nsit-Ibom",
+            "official": "Nsit-Ibom Local Government",
+            "areas": []
+        },
+        "21": {
+            "name": "Nsit-Ubium",
+            "official": "Nsit-Ubium Local Government",
+            "areas": []
+        },
+        "22": {
+            "name": "Obot-Akara",
+            "official": "Obot-Akara Local Government",
+            "areas": []
+        },
+        "23": {
+            "name": "Okobo",
+            "official": "Okobo Local Government",
+            "areas": []
+        },
+        "24": {
+            "name": "Onna",
+            "official": "Onna Local Government",
+            "areas": []
+        },
+        "25": {
+            "name": "Oron",
+            "official": "Oron Local Government",
+            "areas": []
+        },
+        "26": {
+            "name": "Oruk Anam",
+            "official": "Oruk Anam Local Government",
+            "areas": []
+        },
+        "27": {
+            "name": "Ukanafun",
+            "official": "Ukanafun Local Government",
+            "areas": []
+        },
+        "28": {
+            "name": "Udung-Uko",
+            "official": "Udung-Uko Local Government",
+            "areas": []
+        },
+        "29": {
+            "name": "Uruan",
+            "official": "Uruan Local Government",
+            "areas": []
+        },
+        "30": {
+            "name": "Urue-Offong/Oruko",
+            "official": "Urue-Offong/Oruko Local Government",
+            "areas": []
+        },
+        "31": {
+            "name": "Uyo",
+            "official": "Uyo Local Government",
+            "areas": []
+        }
+    }
+}
+

@@ -1,0 +1,130 @@
+{
+    "name": {
+        "common": "Kebbi",
+        "official": "Kebbi State",
+        "short_code": "KE"
+    },
+    "capital": "Birnin Kebbi",
+    "political_zone": "North West",
+    "date_created": "27/08/1991",
+    "population": "3256541",
+    "website": "http://www.kebbistate.gov.ng/",
+    "demonym": "Kebbian",
+    "nick_name": "Land of Equity",
+    "languages": {
+        "english": "English",
+        "hausa": "Hausa"
+    },
+    "lga": {
+        "1": {
+            "name": "Aleiro",
+            "official": "Aleiro Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Arewa Dandi",
+            "official": "Arewa Dandi Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Argungu",
+            "official": "Argungu Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Augie",
+            "official": "Augie Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Bagudo",
+            "official": "Bagudo Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Birnin Kebbi",
+            "official": "Birnin Kebbi Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Bunza",
+            "official": "Bunza Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Dandi",
+            "official": "Dandi Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Fakai",
+            "official": "Fakai Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Gwandu",
+            "official": "Gwandu Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Jega",
+            "official": "Jega Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Kalgo",
+            "official": "Kalgo Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Koko/Besse",
+            "official": "Koko/Besse Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Maiyama",
+            "official": "Maiyama Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Ngaski",
+            "official": "Ngaski Local Government",
+            "areas": []
+        },
+       
+        "16": {
+            "name": "Sakaba",
+            "official": "Sakaba Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Shanga",
+            "official": "Shanga Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Suru",
+            "official": "Suru Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Danko/Wasagu",
+            "official": "Danko/Wasagu Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Yauri",
+            "official": "Yauri Local Government",
+            "areas": []
+        },
+       
+        "21": {
+            "name": "Zuru",
+            "official": "Zuru Local Government",
+            "areas": []
+        }
+       
+       
+}
+
+}

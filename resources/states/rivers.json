@@ -1,0 +1,150 @@
+{
+    "name": {
+        "common": "Rivers",
+        "official": "Rivers State",
+        "short_code": "RI"
+    },
+    "capital": "Port Harcourt",
+    "political_zone": "South South",
+    "date_created": "27/05/1967",
+    "population": "5198716",
+    "website": "https://www.riversstate.gov.ng/",
+    "demonym": "Riverian",
+    "nick_name": "Treasure Base of the Nation",
+    "languages": {
+        "english": "English"
+
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Port Harcourt",
+            "official": "Port Harcourt Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Obio-Akpor ",
+            "official": "Obio-Akpor  Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Okrika",
+            "official": "Okrika Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Ogu–Bolo",
+            "official": "Ogu–Bolo Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Eleme",
+            "official": "Eleme Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Tai",
+            "official": "Tai  Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Gokana",
+            "official": "Gokana Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Khana",
+            "official": "Khana  Local Government",
+            "areas": []
+        },
+      
+       
+        "9": {
+            "name": "Oyigbo",
+            "official": "Oyigbo Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Opobo–Nkoro",
+            "official": "Opobo–Nkoro Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Andoni",
+            "official": "Andoni Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Bonny",
+            "official": "Bonny Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Degema",
+            "official": "Degema Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Asari-Toru",
+            "official": "Asari-Toru South Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Akuku-Toru",
+            "official": "Akuku-Toru Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Abua–Odual",
+            "official": "Abua–Odual Local Government",
+            "areas": []
+        }
+        ,
+        "17": {
+            "name": "Ahoada West",
+            "official": "Ahoada West Local Government",
+            "areas": []
+        }
+        ,
+        "18": {
+            "name": "Ahoada East",
+            "official": "Ahoada East Local Government",
+            "areas": []
+        }  
+        ,
+        "19": {
+            "name": "Ogba–Egbema–Ndoni",
+            "official": "Ogba–Egbema–Ndoni Local Government",
+            "areas": []
+        }  
+        ,
+        "20": {
+            "name": "Emohua",
+            "official": "Emohua Local Government",
+            "areas": []
+        }  
+        ,
+        "21": {
+            "name": "Ikwerre",
+            "official": "Ikwerre Local Government",
+            "areas": []
+        }  
+        ,
+        "22": {
+            "name": "Etche",
+            "official": "Etche Local Government",
+            "areas": []
+        }  
+        ,
+        "23": {
+            "name": "Omuma",
+            "official": "Omuma Local Government",
+            "areas": []
+        }  
+       
+      
+
+}
+
+}

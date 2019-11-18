@@ -1,0 +1,127 @@
+{
+    "name": {
+        "common": "Adamawa",
+        "official": "Adamawa State",
+        "short_code": "AD"
+    },
+    "capital": "Yola",
+    "political_zone": "North East",
+    "date_created": "27/08/1991",
+    "population": "3178950",
+    "website": "www.adamawastate.gov.ng",
+    "demonym": "",
+    "nick_name": "Land of Beauty",
+    "languages": {
+        "english": "English",
+        "hausa": "Hausa",
+        "Fulfulde": "Fulfulde"
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Demsa",
+            "official": "Demsa Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Fufore",
+            "official": "Fufore Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Ganye",
+            "official": "Ganye Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Girei",
+            "official": "Girei Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Gombi",
+            "official": "Gombi Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Guyuk",
+            "official": "Guyuk  Local Government"
+        },
+        "7": {
+            "name": "Hong",
+            "official": "Hong Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Jada",
+            "official": "Jada Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Lamurde",
+            "official": "Lamurde Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Madagali",
+            "official": "Madagali Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Maiha",
+            "official": "Maiha Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Mayo-Belwa",
+            "official": "Mayo-Belwa Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Michika",
+            "official": "Michika Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Mubi North",
+            "official": "Mubi North Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Mubi South",
+            "official": "Mubi South Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Numan",
+            "official": "Numan Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Shelleng",
+            "official": "Shelleng Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Song",
+            "official": "Song Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Toungo",
+            "official": "Toungo Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Yola North",
+            "official": "Yola North Local Government",
+            "areas": []
+        },
+        "21": {
+            "name": "Yola South",
+            "official": "Yola South Local Government",
+            "areas": []
+        }
+    }
+}
+

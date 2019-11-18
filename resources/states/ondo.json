@@ -1,0 +1,118 @@
+{
+    "name": {
+        "common": "Ondo",
+        "official": "Ondo State",
+        "short_code": "ON"
+    },
+    "capital": "Akure",
+    "political_zone": "South West",
+    "date_created": "03/02/1976",
+    "population": "3460877",
+    "website": "",
+    "demonym": "",
+    "nick_name": "Sunshine State",
+    "languages": {
+        "english": "English",
+        "yoruba": "Yoruba"
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Akoko North-West",
+            "official": "Akoko North-West Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Akoko North-East",
+            "official": "Akoko North-East Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Akoko South-East",
+            "official": "Akoko South-East Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Akoko South-West",
+            "official": "Akoko South-West Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ose",
+            "official": "Ose Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Owo",
+            "official": "Owo Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Akure North",
+            "official": "Akure North Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Akure South",
+            "official": "Akure South Local Government",
+            "areas": []
+        },
+       
+        "9": {
+            "name": "Ifedore",
+            "official": "Ifedore Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Ile Oluji/Okeigbo",
+            "official": "Ile Oluji/Okeigbo Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Ondo West",
+            "official": "Ondo West Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ondo East",
+            "official": "Ondo East Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Idanre",
+            "official": "Idanre Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Odigbo",
+            "official": "Odigbo Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Okitipupa",
+            "official": "Okitipupa Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Irele",
+            "official": "Irele Local Government",
+            "areas": []
+        }
+        ,
+        "17": {
+            "name": "Ese Odo",
+            "official": "Ese Odo Local Government",
+            "areas": []
+        }
+        ,
+        "18": {
+            "name": "Ilaje",
+            "official": "Ilaje Local Government",
+            "areas": []
+        }
+        
+    
+}
+
+}

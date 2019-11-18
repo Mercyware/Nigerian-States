@@ -1,0 +1,181 @@
+{
+    "name": {
+        "common": "Osun",
+        "official": "State of Osun",
+        "short_code": "OS"
+    },
+    "capital": "Osogbo",
+    "political_zone": "South West",
+    "date_created": "27/08/1991",
+    "population": "3416959",
+    "website": "http://osun.gov.ng/",
+    "demonym": "Osunian",
+    "nick_name": "Land of Virtue",
+    "languages": {
+        "english": "English",
+        "yoruba": "Yoruba"
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Aiyedaade",
+            "official": "Aiyedaade Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Aiyedire",
+            "official": "Aiyedire Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Atakunmosa East",
+            "official": "Atakunmosa East Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Atakunmosa West",
+            "official": "Atakunmosa West Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Boluwaduro",
+            "official": "Boluwaduro Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Boripe",
+            "official": "Boripe Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Ede North",
+            "official": "Ede North Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Ede South",
+            "official": "Ede South Local Government",
+            "areas": []
+        },
+       
+        "9": {
+            "name": "Egbedore",
+            "official": "Egbedore Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Ejigbo",
+            "official": "Ejigbo Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Ife Central",
+            "official": "Ife Central Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ife East",
+            "official": "Ife East Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Ife North",
+            "official": "Ife North Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Ife South",
+            "official": "Ife South Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Ifedayo",
+            "official": "Ifedayo Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Ifelodun",
+            "official": "Ifelodun Local Government",
+            "areas": []
+        }
+        ,
+        "17": {
+            "name": "Ila",
+            "official": "Ila Local Government",
+            "areas": []
+        }
+        ,
+        "18": {
+            "name": "Ilesa East",
+            "official": "Ilesa East Local Government",
+            "areas": []
+        }
+        
+        ,
+        "19": {
+            "name": "Ilesa West",
+            "official": "Ilesa West Local Government",
+            "areas": []
+        },  
+        "20": {
+            "name": "Irepodun",
+            "official": "Irepodun Local Government",
+            "areas": []
+        }  ,
+        "21": {
+            "name": "Irewole",
+            "official": "Irewole Local Government",
+            "areas": []
+        }  ,
+        "22": {
+            "name": "Isokan",
+            "official": "Isokan Local Government",
+            "areas": []
+        }  ,
+        "23": {
+            "name": "Iwo",
+            "official": "Iwo Local Government",
+            "areas": []
+        }  ,
+        "24": {
+            "name": "Obokun",
+            "official": "Obokun Local Government",
+            "areas": []
+        }  ,
+        "25": {
+            "name": "Odo Otin",
+            "official": "Odo Otin Local Government",
+            "areas": []
+        }
+        ,
+        "26": {
+            "name": "Ola Oluwa",
+            "official": "Ola Oluwa Local Government",
+            "areas": []
+        }
+        ,
+        "27": {
+            "name": "Olorunda",
+            "official": "Olorunda Local Government",
+            "areas": []
+        }
+        ,
+        "28": {
+            "name": "Oriade",
+            "official": "Oriade Local Government",
+            "areas": []
+        }  ,
+        "29": {
+            "name": "Orolu",
+            "official": "Orolu Local Government",
+            "areas": []
+        }  ,
+        "30": {
+            "name": "Osogbo",
+            "official": "Osogbo Local Government",
+            "areas": []
+        }
+}
+
+}

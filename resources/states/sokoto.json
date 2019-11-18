@@ -1,0 +1,150 @@
+{
+    "name": {
+        "common": "Sokoto",
+        "official": "Sokoto State",
+        "short_code": "SO"
+    },
+    "capital": "Sokoto",
+    "political_zone": "North West",
+    "date_created": "03/02/1976",
+    "population": "3702676",
+    "website": "",
+    "demonym": "",
+    "nick_name": "Seat of the Caliphate",
+    "languages": {
+        "english": "English"
+
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Binji",
+            "official": "Binji Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Bodinga",
+            "official": "Bodinga  Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Dange Shuni",
+            "official": "Dange Shuni Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Gada",
+            "official": "Gada Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Goronyo",
+            "official": "Goronyo Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Gudu",
+            "official": "Gudu  Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Gwadabawa",
+            "official": "Gwadabawa Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Illela",
+            "official": "Illela  Local Government",
+            "areas": []
+        },
+      
+       
+        "9": {
+            "name": "Isa",
+            "official": "Isa Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Kebbe",
+            "official": "Kebbe Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Kware",
+            "official": "Kware Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Bonny",
+            "official": "Bonny Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Sabon Birni",
+            "official": "Sabon Birni Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Shagari",
+            "official": "Shagari South Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Silame",
+            "official": "Silame Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Sokoto North",
+            "official": "Sokoto North Local Government",
+            "areas": []
+        }
+        ,
+        "17": {
+            "name": "Sokoto South",
+            "official": "Sokoto South Local Government",
+            "areas": []
+        }
+        ,
+        "18": {
+            "name": "Tambuwal",
+            "official": "Tambuwal Local Government",
+            "areas": []
+        }  
+        ,
+        "19": {
+            "name": "Tangaza",
+            "official": "Tangaza Local Government",
+            "areas": []
+        }  
+        ,
+        "20": {
+            "name": "Tureta",
+            "official": "Tureta Local Government",
+            "areas": []
+        }  
+        ,
+        "21": {
+            "name": "Wamako",
+            "official": "Wamako Local Government",
+            "areas": []
+        }  
+        ,
+        "22": {
+            "name": "Wurno",
+            "official": "Wurno Local Government",
+            "areas": []
+        }  
+        ,
+        "23": {
+            "name": "Yabo",
+            "official": "Yabo Local Government",
+            "areas": []
+        }  
+       
+      
+
+}
+
+}

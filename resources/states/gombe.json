@@ -1,0 +1,74 @@
+{
+    "name": {
+        "common": "Gombe",
+        "official": "Gombe State",
+        "short_code": "GO"
+    },
+    "capital": "Gombe",
+    "political_zone": "North East",
+    "date_created": "01/10/1996",
+    "population": "2365040",
+    "website": "gombestate.gov.ng",
+    "demonym": "",
+    "nick_name": " Jewel in the Savannah",
+    "languages": {
+        "english": "English"
+    },
+    "lga": {
+        "1": {
+            "name": "Akko",
+            "official": "Akko Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Balanga",
+            "official": "Balanga Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Billiri",
+            "official": "Billiri Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Dukku",
+            "official": "Dukku Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Funakaye",
+            "official": "Funakaye Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Gombe",
+            "official": "Gombe Local Government"
+        },
+        "7": {
+            "name": "Kaltungo",
+            "official": "Kaltungo Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Kwami",
+            "official": "Kwami Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Nafada",
+            "official": "Nafada Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Shongom",
+            "official": "Shongom Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Yamaltu/Deba",
+            "official": "Yamaltu/Deba Local Government",
+            "areas": []
+        }
+    }
+}
+

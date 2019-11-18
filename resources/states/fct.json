@@ -1,0 +1,49 @@
+{
+    "name": {
+        "common": "Federal Capital Territory",
+        "official": "Federal Capital Territory",
+        "short_code": "FCT"
+    },
+    "capital": "Abuja",
+    "political_zone": "North Central",
+    "date_created": "03/02/1976",
+    "population": "1406239",
+    "website": "fct.gov.ng",
+    "demonym": "",
+    "nick_name": "Centre of Unity",
+    "languages": {
+        "english": "English"
+    },
+    "lga": {
+        "1": {
+            "name": "Abaji",
+            "official": "Abaji Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Abuja",
+            "official": "Abuja Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Bwari ",
+            "official": "Bwari  Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Gwagwalada ",
+            "official": "Gwagwalada  Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Kuje ",
+            "official": "Kuje  Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Kwali",
+            "official": "Kwali Local Government"
+        }
+    }
+}
+

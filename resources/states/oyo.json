@@ -1,0 +1,198 @@
+{
+    "name": {
+        "common": "Oyo",
+        "official": "Oyo State",
+        "short_code": "OY"
+    },
+    "capital": "Ibadan",
+    "political_zone": "South West",
+    "date_created": "03/02/1976",
+    "population": "5580894",
+    "website": "https://www.oyostate.gov.ng/",
+    "demonym": "",
+    "nick_name": "Pace Setter State",
+    "languages": {
+        "english": "English",
+        "yoruba": "Yoruba"
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Afijio",
+            "official": "Afijio Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Akinyele ",
+            "official": "Akinyele  Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Egbeda",
+            "official": "Egbeda Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Ibadan North",
+            "official": "Ibadan North Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ibadan North-East ",
+            "official": "Ibadan North-East  Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ibadan North-West",
+            "official": "Ibadan North-West Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Ibadan South-West ",
+            "official": "Ibadan South-West  Local Government",
+            "areas": []
+        },
+      
+       
+        "8": {
+            "name": "Ibadan South-East",
+            "official": "Ibadan South-East Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Ibarapa Central",
+            "official": "Ibarapa Central Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Ibarapa East",
+            "official": "Ibarapa East Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Ido",
+            "official": "Ido Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Irepo",
+            "official": "Irepo Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Iseyin",
+            "official": "Iseyin South Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Kajola",
+            "official": "Kajola Local Government",
+            "areas": []
+        }
+        ,
+        "15": {
+            "name": "Lagelu",
+            "official": "Lagelu Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Ogbomosho North",
+            "official": "Ogbomosho North Local Government",
+            "areas": []
+        }
+        ,
+        "17": {
+            "name": "Ogbomosho South",
+            "official": "Ogbomosho South Local Government",
+            "areas": []
+        }
+        
+        ,
+        "18": {
+            "name": "Oyo West",
+            "official": "Oyo West Local Government",
+            "areas": []
+        },  
+        "19": {
+            "name": "Atiba",
+            "official": "Atiba Local Government",
+            "areas": []
+        }  ,
+        "20": {
+            "name": "Atisbo",
+            "official": "Atisbo Local Government",
+            "areas": []
+        }  ,
+        "21": {
+            "name": "Saki West",
+            "official": "Saki West Local Government",
+            "areas": []
+        }  ,
+        "22": {
+            "name": "Saki East",
+            "official": "Saki East Local Government",
+            "areas": []
+        }  ,
+        "23": {
+            "name": "Itesiwaju",
+            "official": "Itesiwaju Local Government",
+            "areas": []
+        }  ,
+        "24": {
+            "name": "Iwajowa",
+            "official": "Iwajowa Local Government",
+            "areas": []
+        }
+        ,
+        "25": {
+            "name": "Ibarapa North",
+            "official": "Ibarapa North Local Government",
+            "areas": []
+        }
+        ,
+        "26": {
+            "name": "Olorunsogo",
+            "official": "Olorunsogo Local Government",
+            "areas": []
+        }
+        ,
+        "27": {
+            "name": "Oluyole",
+            "official": "Oluyole Local Government",
+            "areas": []
+        }  ,
+        "28": {
+            "name": "Ogo Oluwa",
+            "official": "Ogo Oluwa Local Government",
+            "areas": []
+        }  ,
+        "29": {
+            "name": "Surulere",
+            "official": "Surulere Local Government",
+            "areas": []
+        },
+        "30": {
+            "name": "Orelope",
+            "official": "Orelope Local Government",
+            "areas": []
+        },
+        "31": {
+            "name": "Ori Ire",
+            "official": "Ori Ire Local Government",
+            "areas": []
+        }
+        ,"32": {
+            "name": "Oyo East",
+            "official": "Oyo East Local Government",
+            "areas": []
+        },
+        "33": {
+            "name": "Ona Ara",
+            "official": "Ona Ara Local Government",
+            "areas": []
+        }
+
+}
+
+}

@@ -1,0 +1,187 @@
+{
+    "abia": {
+        "name": "Abia",
+        "official_name": "Abia State",
+        "emoji": "AB"
+    },
+    "adamawa": {
+        "name": "Adamawa",
+        "official_name": "Adamawa State",
+        "emoji": "AD"
+    },
+    "akwa_ibom": {
+        "name": "Akwa Ibom",
+        "official_name": "Akwa Ibom State",
+        "emoji": "AK"
+    },
+    "anambra": {
+        "name": "Anambra",
+        "official_name": "Anambra State",
+        "emoji": "AN"
+    },
+    "bauchi": {
+        "name": "Bauchi",
+        "official_name": "Bauchi State",
+        "emoji": "BA"
+    },
+    "bayelsa": {
+        "name": "Bayelsa",
+        "official_name": "Bayelsa State",
+        "emoji": "BA"
+    },
+    "benue": {
+        "name": "Benue",
+        "official_name": "Benue State",
+        "emoji": "BA"
+    },
+    "borno": {
+        "name": "Borno",
+        "official_name": "Benue State",
+        "emoji": "BA"
+    },
+    "cross_river": {
+        "name": "Cross River",
+        "official_name": "Cross River State",
+        "emoji": "BA"
+    },
+    "delta": {
+        "name": "Delta",
+        "official_name": "Delta State",
+        "emoji": "BA"
+    },
+    "ebonyi": {
+        "name": "Ebonyi",
+        "official_name": "Ebonyi State",
+        "emoji": "BA"
+    },
+    "edo": {
+        "name": "Edo",
+        "official_name": "Edo State",
+        "emoji": "BA"
+    },
+    "ekiti": {
+        "name": "Ekiti",
+        "official_name": "Ekiti State",
+        "emoji": "BA"
+    },
+    "enugu": {
+        "name": "Enugu",
+        "official_name": "Enugu State",
+        "emoji": "BA"
+    },
+    "fct": {
+        "name": "Federal Capital Territory",
+        "official_name": "Federal Capital Territory",
+        "emoji": "BA"
+    },
+    "gombe": {
+        "name": "Gombe",
+        "official_name": "Gombe State",
+        "emoji": "BA"
+    },
+    "imo": {
+        "name": "Imo",
+        "official_name": "Imo State",
+        "emoji": "BA"
+    },
+    "jigawa": {
+        "name": "Jigawa",
+        "official_name": "Jigawa State",
+        "emoji": "BA"
+    },
+    "kaduna": {
+        "name": "Kaduna",
+        "official_name": "Kaduna State",
+        "emoji": "BA"
+    },
+    "kano": {
+        "name": "Kano",
+        "official_name": "Kaduna State",
+        "emoji": "BA"
+    },
+    "katsina": {
+        "name": "Katsina",
+        "official_name": "Katsina State",
+        "emoji": "BA"
+    },
+    "kebbi": {
+        "name": "Kebbi",
+        "official_name": "Kebbi State",
+        "emoji": "BA"
+    },
+    "kogi": {
+        "name": "Kogi",
+        "official_name": "Kogi State",
+        "emoji": "BA"
+    },
+    "kwara": {
+        "name": "Kwara",
+        "official_name": "Kwara State",
+        "emoji": "BA"
+    },
+    "lagos": {
+        "name": "Lagos",
+        "official_name": "Lagos State",
+        "emoji": "BA"
+    },
+    "nasarawa": {
+        "name": "Nasarawa",
+        "official_name": "Nasarawa State",
+        "emoji": "BA"
+    },
+    "niger": {
+        "name": "Niger",
+        "official_name": "Niger State",
+        "emoji": "BA"
+    },
+    "ogun": {
+        "name": "Ogun",
+        "official_name": "Ogun State",
+        "emoji": "BA"
+    },
+    "ondo": {
+        "name": "Ondo",
+        "official_name": "Ondo State",
+        "emoji": "BA"
+    },
+    "osun": {
+        "name": "Osun",
+        "official_name": "State of Osun",
+        "emoji": "BA"
+    },
+    "oyo": {
+        "name": "Oyo",
+        "official_name": "Oyo State",
+        "emoji": "BA"
+    },
+    "plateau": {
+        "name": "Plateau",
+        "official_name": "Plateau State",
+        "emoji": "BA"
+    },
+    "rivers": {
+        "name": "Rivers",
+        "official_name": "Rivers State",
+        "emoji": "BA"
+    },
+    "sokoto": {
+        "name": "Sokoto",
+        "official_name": "Sokoto State",
+        "emoji": "BA"
+    },
+    "taraba": {
+        "name": "Taraba",
+        "official_name": "Taraba State",
+        "emoji": "BA"
+    },
+    "yobe": {
+        "name": "Yobe",
+        "official_name": "Yobe State",
+        "emoji": "BA"
+    },
+    "zamfara": {
+        "name": "Zamfara",
+        "official_name": "Zamfara State",
+        "emoji": "BA"
+    }
+}

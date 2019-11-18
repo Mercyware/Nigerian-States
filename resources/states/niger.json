@@ -1,0 +1,156 @@
+{
+    "name": {
+        "common": "Niger",
+        "official": "Niger State",
+        "short_code": "NI"
+    },
+    "capital": "Minna",
+    "political_zone": "North West",
+    "date_created": "03/02/1976",
+    "population": "3954772",
+    "website": "http://www.nigerstate.gov.ng/",
+    "demonym": "",
+    "nick_name": "The Power State",
+    "languages": {
+        "english": "English"
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Agaie",
+            "official": "Agaie Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Agwara",
+            "official": "Agwara Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Bida",
+            "official": "Bida Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Borgu",
+            "official": "Borgu Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Bosso",
+            "official": "Bosso Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Chanchaga",
+            "official": "Chanchaga Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Edati",
+            "official": "Edati Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Gbako",
+            "official": "Gbako Local Government",
+            "areas": []
+        },
+       
+        "9": {
+            "name": "Gurara",
+            "official": "Gurara Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Katcha",
+            "official": "Katcha Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Kotangora",
+            "official": "Kotangora Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Lapai",
+            "official": "Lapai Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Lavun",
+            "official": "Lavun Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Magama",
+            "official": "Magama Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Mariga",
+            "official": "Mariga Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Mashegu",
+            "official": "Mashegu Local Government",
+            "areas": []
+        }
+        ,
+        "17": {
+            "name": "Mokwa",
+            "official": "Mokwa Local Government",
+            "areas": []
+        }
+        ,
+        "18": {
+            "name": "Munya",
+            "official": "Munya Local Government",
+            "areas": []
+        }
+        ,
+        "19": {
+            "name": "Paikoro",
+            "official": "Paikoro Local Government",
+            "areas": []
+        }
+        ,
+        "20": {
+            "name": "Rafi",
+            "official": "Rafi Local Government",
+            "areas": []
+        } ,
+        "21": {
+            "name": "Rijau",
+            "official": "Rijau Local Government",
+            "areas": []
+        }
+        ,
+        "22": {
+            "name": "Shiroro",
+            "official": "Shiroro Local Government",
+            "areas": []
+        }
+        ,
+        "23": {
+            "name": "Suleja",
+            "official": "Suleja Local Government",
+            "areas": []
+        }
+        ,
+        "24": {
+            "name": "Tafa",
+            "official": "Tafa Local Government",
+            "areas": []
+        }
+        ,
+        "25": {
+            "name": "Wushishi",
+            "official": "Wushishi Local Government",
+            "areas": []
+        }
+}
+
+}

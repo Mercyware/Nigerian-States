@@ -1,0 +1,84 @@
+{
+    "name": {
+        "common": "Ebonyi",
+        "official": "Ebonyi State",
+        "short_code": "EB"
+    },
+    "capital": "Abakaliki",
+    "political_zone": "South East",
+    "date_created": "01/06/1991",
+    "population": "2176947",
+    "website": "",
+    "demonym": "Ebonyian",
+    "nick_name": " Salt of the Nation",
+    "languages": {
+        "english": "English"
+    },
+    "lga": {
+        "1": {
+            "name": "Abakaliki",
+            "official": "Abakaliki Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Afikpo North",
+            "official": "Afikpo North Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Afikpo South",
+            "official": "Afikpo South Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Ebonyi",
+            "official": "Ebonyi Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ezza North",
+            "official": "Ezza North Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ezza South ",
+            "official": "Ezza South  Local Government"
+        },
+        "7": {
+            "name": "Ikwo",
+            "official": "Ikwo Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Ishielu",
+            "official": "Ishielu Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Ivo",
+            "official": "Ivo Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Izzi",
+            "official": "Izzi Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Ohaozara",
+            "official": "Ohaozara Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ohaukwu",
+            "official": "Ohaukwu Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Onicha",
+            "official": "Onicha Local Government",
+            "areas": []
+        }
+    }
+}
+

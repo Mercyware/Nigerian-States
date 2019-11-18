@@ -1,0 +1,100 @@
+{
+    "name": {
+        "common": "Ekiti",
+        "official": "Ekiti State",
+        "short_code": "EK"
+    },
+    "capital": "Ado Ekiti",
+    "political_zone": "South West",
+    "date_created": "01/10/1996",
+    "population": "2210957",
+    "website": "https://ekitistate.gov.ng/",
+    "demonym": "Ekitian",
+    "nick_name": "Land of Honour & Integrity",
+    "languages": {
+        "english": "English",
+        "yoruba": "Yoruba"
+    },
+    "lga": {
+        "1": {
+            "name": "Ado-Ekiti",
+            "official": "Ado-Ekiti Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Efon",
+            "official": "Efon Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Emure",
+            "official": "Emure Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Ilejemeje",
+            "official": "Ilejemeje Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ikere",
+            "official": "Ikere Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ekiti East ",
+            "official": "Ekiti East Local Government"
+        },
+        "7": {
+            "name": "Ido-Osi",
+            "official": "Ido-Osi Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Irepodun/Ifelodun",
+            "official": "Irepodun/Ifelodun Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Oye",
+            "official": "Oye Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Ekiti South-West",
+            "official": "Ekiti South-West Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Ijero",
+            "official": "Ijero Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ise/Orun",
+            "official": "Ise/Orun Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Aiyekire (Gbonyin)",
+            "official": "Aiyekire (Gbonyin) Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Ekiti West",
+            "official": "Ekiti West Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Ikole",
+            "official": "Ikole Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Moba",
+            "official": "Moba Local Government",
+            "areas": []
+        }
+    }
+}
+

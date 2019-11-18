@@ -1,0 +1,112 @@
+{
+    "name": {
+        "common": "Cross River",
+        "official": "Cross River State",
+        "short_code": "CR"
+    },
+    "capital": "Calabar",
+    "political_zone": "South South",
+    "date_created": "27/05/1967",
+    "population": "3737517",
+    "website": "",
+    "demonym": "",
+    "nick_name": " The People's Paradise",
+    "languages": {
+        "english": "English",
+        "bekwarra": "Bekwarra",
+        "ejagham": " Ejagham",
+        "efik": " Efik"
+    },
+    "lga": {
+        "1": {
+            "name": "Abi",
+            "official": "Abi Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Akamkpa",
+            "official": "Akamkpa Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Akpabuyo",
+            "official": "Akpabuyo Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Bekwarra",
+            "official": "Bekwarra Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Bakassi",
+            "official": "Bakassi Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Biase",
+            "official": "Biase Local Government"
+        },
+        "7": {
+            "name": "Boki",
+            "official": "Boki Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Calabar Municipal",
+            "official": "Calabar Municipal Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Calabar South",
+            "official": "Calabar South Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Etung",
+            "official": "Etung Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Ikom",
+            "official": "Ikom Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Obanliku",
+            "official": "Obanliku Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Obubra",
+            "official": "Obubra Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Obudu",
+            "official": "Obudu Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Odukpani",
+            "official": "Odukpani Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Ogoja",
+            "official": "Ogoja Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Yakuur",
+            "official": "Yakuur Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Yala",
+            "official": "Yala Local Government",
+            "areas": []
+        }
+    }
+}
+

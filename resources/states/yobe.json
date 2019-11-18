@@ -1,0 +1,114 @@
+{
+    "name": {
+        "common": "Yobe",
+        "official": "Yobe State",
+        "short_code": "YO"
+    },
+    "capital": "Damaturu",
+    "political_zone": "North East",
+    "date_created": "27/08/1991",
+    "population": "2321339",
+    "website": "",
+    "demonym": "",
+    "nick_name": "Pride of the Sahel",
+    "languages": {
+        "english": "English"
+
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Bade",
+            "official": "Bade Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Bursari",
+            "official": "Bursari  Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Damaturu",
+            "official": "Damaturu Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Geidam",
+            "official": "Geidam Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Gujba",
+            "official": "Gujba Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Gulani",
+            "official": "Gulani  Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Fika",
+            "official": "Fika Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Fune",
+            "official": "Fune  Local Government",
+            "areas": []
+        },
+      
+       
+        "9": {
+            "name": "Jakusko",
+            "official": "Jakusko Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Karasuwa",
+            "official": "Karasuwa Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Machina",
+            "official": "Machina Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Nangere",
+            "official": "Nangere Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Nguru",
+            "official": "Nguru Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Potiskum",
+            "official": "Potiskum South Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Tarmuwa",
+            "official": "Tarmuwa Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Yunusari",
+            "official": "Yunusari Local Government",
+            "areas": []
+        }
+     
+        ,
+        "17": {
+            "name": "Yusufari",
+            "official": "Yusufari Local Government",
+            "areas": []
+        }
+      
+
+}
+
+}

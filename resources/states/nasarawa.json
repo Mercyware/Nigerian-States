@@ -1,0 +1,85 @@
+{
+    "name": {
+        "common": "Nasarawa",
+        "official": "Nasarawa State",
+        "short_code": "NA"
+    },
+    "capital": "Lafia",
+    "political_zone": "North Central",
+    "date_created": "01/10/1996",
+    "population": "1869377",
+    "website": "http://www.nasarawastate.gov.ng/",
+    "demonym": "",
+    "nick_name": "Home of Solid Minerals",
+    "languages": {
+        "english": "English"
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Karu",
+            "official": "Karu Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Keffi",
+            "official": "Keffi Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Kokona",
+            "official": "Kokona Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Nasarawa",
+            "official": "Nasarawa Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Toto",
+            "official": "Toto Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Akwanga",
+            "official": "Akwanga Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Nasarawa Egon",
+            "official": "Nasarawa Egon Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Wamba",
+            "official": "Wamba Local Government",
+            "areas": []
+        },
+       
+        "9": {
+            "name": "Awe",
+            "official": "Awe Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Doma",
+            "official": "Doma Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Keana",
+            "official": "Keana Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Obi",
+            "official": "Obi Local Government",
+            "areas": []
+        }
+
+        
+       
+}
+
+}

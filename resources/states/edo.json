@@ -1,0 +1,109 @@
+{
+    "name": {
+        "common": "Edo",
+        "official": "Edo State",
+        "short_code": "ED"
+    },
+    "capital": "Benin City",
+    "political_zone": "South East",
+    "date_created": "26/08/1991",
+    "population": "3233366",
+    "website": "edostate.gov.ng",
+    "demonym": "",
+    "nick_name": "Heart Beat of Nigeria",
+    "languages": {
+        "english": "English"
+    },
+    "lga": {
+        "1": {
+            "name": "Akoko-Edo",
+            "official": "Akoko-Edo Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Egor",
+            "official": "Egor Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Esan Central",
+            "official": "Esan Central Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Esan North-East",
+            "official": "Esan North-East Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Esan South-East",
+            "official": "Esan South-East Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Esan West ",
+            "official": "Esan West Local Government"
+        },
+        "7": {
+            "name": "Etsako Central",
+            "official": "Etsako Central Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Etsako East",
+            "official": "Etsako East Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Etsako West",
+            "official": "Etsako West Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Igueben",
+            "official": "Igueben Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Ikpoba-Okha",
+            "official": "Ikpoba-Okha Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Oredo",
+            "official": "Oredo Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Orhionmwon",
+            "official": "Orhionmwon Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Ovia North-East",
+            "official": "Ovia North-East Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Ovia South-West",
+            "official": "Ovia South-West Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Owan East",
+            "official": "Owan East Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Owan West",
+            "official": "Owan West Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Uhunmwonde",
+            "official": "Uhunmwonde Local Government",
+            "areas": []
+        }
+    }
+}
+

@@ -1,0 +1,125 @@
+{
+    "name": {
+        "common": "Anambra",
+        "official": "Anambra State",
+        "short_code": "AN"
+    },
+    "capital": "Awka",
+    "political_zone": "South East",
+    "date_created": "27/08/1991",
+    "population": "4177828",
+    "website": "anambrastate.gov.ng",
+    "demonym": "Ndi Anambra",
+    "nick_name": "Light of the Nation",
+    "languages": {
+        "english": "English",
+        "igbo": "Igbo"
+    },
+    "lga": {
+        "1": {
+            "name": "Aguata",
+            "official": "Aguata Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Awka North",
+            "official": "Awka North Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Awka South",
+            "official": "Awka South Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Anambra East",
+            "official": "Anambra East Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Anambra West",
+            "official": "Anambra West Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Anaocha",
+            "official": "Anaocha  Local Government"
+        },
+        "7": {
+            "name": "Ayamelum",
+            "official": "Ayamelum Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Dunukofia",
+            "official": "Dunukofia Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Ekwusigo",
+            "official": "Ekwusigo Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Idemili North",
+            "official": "Idemili North Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Idemili South",
+            "official": "Idemili South Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ihiala",
+            "official": "Ihiala Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Njikoka",
+            "official": "Njikoka Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Nnewi North",
+            "official": "Nnewi North Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Nnewi South",
+            "official": "Nnewi South Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Ogbaru",
+            "official": "Ogbaru Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Onitsha North",
+            "official": "Onitsha North Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Onitsha South",
+            "official": "Onitsha South Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Orumba North",
+            "official": "Orumba North Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Orumba South",
+            "official": "Orumba South Local Government",
+            "areas": []
+        },
+        "21": {
+            "name": "Oyi",
+            "official": "Oyi Local Government",
+            "areas": []
+        }
+    }
+}
+

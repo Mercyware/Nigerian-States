@@ -1,0 +1,65 @@
+{
+    "name": {
+        "common": "Bayelsa",
+        "official": "Bayelsa State",
+        "short_code": "BY"
+    },
+    "capital": "Yenagoa",
+    "political_zone": "South South",
+    "date_created": "01/10/1996",
+    "population": "1704515",
+    "website": "",
+    "demonym": "Bayelsan",
+    "nick_name": "Glory of all lands",
+    "languages": {
+        "english": "English",
+        "ijaw": "Ijaw"
+    },
+    "lga": {
+        "1": {
+            "name": "Brass",
+            "official": "Brass Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Ekeremor",
+            "official": "Ekeremor Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Kolokuma/Opokuma",
+            "official": "Kolokuma/Opokuma Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Nembe",
+            "official": "Nembe Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ogbia",
+            "official": "Ogbia Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Sagbama",
+            "official": "Sagbama  Local Government"
+        },
+        "7": {
+            "name": "Southern Ijaw",
+            "official": "Southern Ijaw Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Yenagoa",
+            "official": "Yenagoa Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Alkaleri",
+            "official": "Alkaleri Local Government",
+            "areas": []
+        }
+    }
+}
+

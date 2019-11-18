@@ -1,0 +1,109 @@
+{
+    "name": {
+        "common": "Taraba",
+        "official": "Taraba State",
+        "short_code": "TA"
+    },
+    "capital": "Sokoto",
+    "political_zone": "North East",
+    "date_created": "27/08/1991",
+    "population": "2294800",
+    "website": "http://tarabastate.gov.ng/",
+    "demonym": "",
+    "nick_name": "Nature's Gift to the Nation",
+    "languages": {
+        "english": "English"
+
+        
+    },
+    "lga": {
+        "1": {
+            "name": "Ardo Kola",
+            "official": "Ardo Kola Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Bali",
+            "official": "Bali  Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Donga",
+            "official": "Donga Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Gashaka",
+            "official": "Gashaka Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Gassol",
+            "official": "Gassol Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ibi",
+            "official": "Ibi  Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Jalingo",
+            "official": "Jalingo Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Karim Lamido",
+            "official": "Karim Lamido  Local Government",
+            "areas": []
+        },
+      
+       
+        "9": {
+            "name": "Kurmi",
+            "official": "Kurmi Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Lau",
+            "official": "Lau Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Sardauna",
+            "official": "Sardauna Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Takum",
+            "official": "Takum Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Ussa",
+            "official": "Ussa Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Wukari",
+            "official": "Wukari South Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Yorro",
+            "official": "Yorro Local Government",
+            "areas": []
+        }
+        ,
+        "16": {
+            "name": "Zing",
+            "official": "Zing Local Government",
+            "areas": []
+        }
+     
+       
+      
+
+}
+
+}

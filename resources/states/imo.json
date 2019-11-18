@@ -1,0 +1,150 @@
+{
+    "name": {
+        "common": "Imo ",
+        "official": "Imo  State",
+        "short_code": "IM"
+    },
+    "capital": "Owerri",
+    "political_zone": "South East",
+    "date_created": "03/02/1976",
+    "population": "492756",
+    "website": "https://www.imostate.gov.ng/",
+    "demonym": "Imolite",
+    "nick_name": "Eastern Heartland",
+    "languages": {
+        "english": "English",
+        "igbo": "Igbo"
+    },
+    "lga": {
+        "1": {
+            "name": "Aboh Mbaise",
+            "official": "Aboh Mbaise Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Ahiazu Mbaise",
+            "official": "Ahiazu Mbaise Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Ehime Mbano",
+            "official": "Ehime Mbano Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Ezinihitte Mbaise",
+            "official": "Ezinihitte Mbaise Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Ideato North",
+            "official": "Ideato North Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ideato South",
+            "official": "Ideato South Local Government"
+        },
+        "7": {
+            "name": "Ihitte/Uboma",
+            "official": "Ihitte/Uboma Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Ikeduru",
+            "official": "Ikeduru Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Isiala Mbano",
+            "official": "Isiala Mbano Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Isu",
+            "official": "Isu Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Mbaitoli",
+            "official": "Mbaitoli Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Ngor Okpala",
+            "official": "Ngor Okpala Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Njaba",
+            "official": "Njaba Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Nkwerre",
+            "official": "Nkwerre Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Nwangele",
+            "official": "Nwangele Local Government",
+            "areas": []
+        },
+        "16": {
+            "name": "Obowo",
+            "official": "Obowo Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Oguta",
+            "official": "Oguta Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Ohaji/Egbema",
+            "official": "Ohaji/Egbema Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Okigwe",
+            "official": "Okigwe Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Onuimo",
+            "official": "Onuimo Local Government",
+            "areas": []
+        },
+        "21": {
+            "name": "Orlu",
+            "official": "Orlu Local Government",
+            "areas": []
+        },
+        "22": {
+            "name": "Orsu",
+            "official": "Orsu Local Government",
+            "areas": []
+        },
+        "23": {
+            "name": "Oru East",
+            "official": "Oru East Local Government",
+            "areas": []
+        },
+        "24": {
+            "name": "Owerri Municipal",
+            "official": "Owerri Municipal Local Government",
+            "areas": []
+        },
+        "25": {
+            "name": "Owerri North",
+            "official": "Owerri North Local Government",
+            "areas": []
+        },
+        "26": {
+            "name": "Owerri West",
+            "official": "Owerri West Local Government",
+            "areas": []
+        }
+    }
+}
+

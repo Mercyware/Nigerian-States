@@ -1,0 +1,125 @@
+{
+    "name": {
+        "common": "Kogi",
+        "official": "Kogi State",
+        "short_code": "KG"
+    },
+    "capital": "Lokoja",
+    "political_zone": "Middle Belt",
+    "date_created": "27/08/1991",
+    "population": "3314043",
+    "website": "",
+    "demonym": "Kogite",
+    "nick_name": "The Confluence State",
+    "languages": {
+        "english": "English",
+        "hausa": ""
+    },
+    "lga": {
+        "1": {
+            "name": "Adavi",
+            "official": "Adavi Local Government",
+            "areas": []
+        },
+        "2": {
+            "name": "Ajaokuta",
+            "official": "Ajaokuta Local Government",
+            "areas": []
+        },
+        "3": {
+            "name": "Ankpa",
+            "official": "Ankpa Local Government",
+            "areas": []
+        },
+        "4": {
+            "name": "Bassa",
+            "official": "Bassa Local Government",
+            "areas": []
+        },
+        "5": {
+            "name": "Dekina",
+            "official": "Dekina Local Government",
+            "areas": []
+        },
+        "6": {
+            "name": "Ibaji",
+            "official": "Ibaji Local Government",
+            "areas": []
+        },
+        "7": {
+            "name": "Igalamela-Odolu",
+            "official": "Igalamela-Odolu Local Government",
+            "areas": []
+        },
+        "8": {
+            "name": "Ijumu",
+            "official": "Ijumu Local Government",
+            "areas": []
+        },
+        "9": {
+            "name": "Kabba/Bunu",
+            "official": "Kabba/Bunu Local Government",
+            "areas": []
+        },
+        "10": {
+            "name": "Koton Karfe",
+            "official": "Koton Karfe Local Government",
+            "areas": []
+        },
+        "11": {
+            "name": "Lokoja",
+            "official": "Lokoja Local Government",
+            "areas": []
+        },
+        "12": {
+            "name": "Mopa-Muro",
+            "official": "Mopa-Muro Local Government",
+            "areas": []
+        },
+        "13": {
+            "name": "Ofu",
+            "official": "Ofu Local Government",
+            "areas": []
+        },
+        "14": {
+            "name": "Ogori/Magongo",
+            "official": "Ogori/Magongo Local Government",
+            "areas": []
+        },
+        "15": {
+            "name": "Okehi",
+            "official": "Okehi Local Government",
+            "areas": []
+        },
+       
+        "16": {
+            "name": "Okenne",
+            "official": "Okenne Local Government",
+            "areas": []
+        },
+        "17": {
+            "name": "Olamaboro",
+            "official": "Olamaboro Local Government",
+            "areas": []
+        },
+        "18": {
+            "name": "Omala",
+            "official": "Omala Local Government",
+            "areas": []
+        },
+        "19": {
+            "name": "Yagba East",
+            "official": "Yagba East Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Yagba West",
+            "official": "Yagba West Local Government",
+            "areas": []
+        }
+       
+        
+       
+}
+
+}
