@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mercyware\\States\\Providers\\StatesServiceProvider"
+                "Mercyware\\States\\Provider\\StatesServiceProvider"
             ]
         }
     }
