@@ -14,5 +14,12 @@
         "psr-4": {
             "Mercyware\\States\\":"src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mercyware\\States\\Providers\\StatesServiceProvider"
+            ]
+        }
     }
 }
