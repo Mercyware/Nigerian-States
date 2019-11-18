@@ -184,11 +184,7 @@ class State
 
     }
 
-    /**
-     * Get the currencies.
-     *
-     * @return array|null
-     */
+  
     public function getLocalGovernmentAreas(): ?array
     {
         return $this->get('lga');
@@ -200,11 +196,7 @@ class State
         return $this->get('languages');
     }
 
-    /**
-     * Get the flag.
-     *
-     * @return string|null
-     */
+   
     public function getLogo(): ?string
     {
 

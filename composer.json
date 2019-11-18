@@ -1,6 +1,6 @@
 {
     "name": "mercyware/nigerianstates",
-    "description": "The laravel package helps to get list of Nigerian states and information about each states",
+    "description": "Nigerian States is a package that helps retrieve details about states in the Federal Republic of Nigeria icnluding Local Governement, Languages, Date Created,  Capital and more. Credit: Rinvex LLC from the Rinvex Country Package. https://github.com/rinvex/countries  ",
    "type": "library",
    "license": "MIT",
     "authors": [
